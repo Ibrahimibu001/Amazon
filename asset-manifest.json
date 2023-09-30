@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Amazon/static/css/main.21ada9ad.css",
+    "main.js": "/Amazon/static/js/main.aa3519ba.js",
+    "index.html": "/Amazon/index.html",
+    "main.21ada9ad.css.map": "/Amazon/static/css/main.21ada9ad.css.map",
+    "main.aa3519ba.js.map": "/Amazon/static/js/main.aa3519ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21ada9ad.css",
+    "static/js/main.aa3519ba.js"
+  ]
+}
